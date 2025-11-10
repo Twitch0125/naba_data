@@ -1,6 +1,6 @@
 # 1. Project Setup
 
-- **Status:** Not Started
+- **Status:** Done
 
 ## Overview
 
