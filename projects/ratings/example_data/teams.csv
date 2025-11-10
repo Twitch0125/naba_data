@@ -1,0 +1,4 @@
+team_id,name,abbr,nickname,logo_file_name,city_id,park_id,league_id,sub_league_id,division_id,nation_id,parent_team_id,level,prevent_any_moves,human_team,human_id,gender,background_color_id,text_color_id,ballcaps_main_color_id,ballcaps_visor_color_id,jersey_main_color_id,jersey_away_color_id,jersey_secondary_color_id,jersey_pin_stripes_color_id,allstar_team,historical_id
+1,"Dallas","DAL","Bulldogs","dallas_bulldogs.png",21777,41,200,1,0,206,0,1,1,1,1,0,"#666249","#FEB20E","#085FA8","#FEFEFE","#085FA8","#AAAAAA","#085FA8","#085FA8",0,""
+2,"Kansas City","KC","Keys","kansas_city_keys.png",36925,2,200,0,1,206,0,1,1,1,1,0,"#9A83C5","#000000","#9A83C5","#000000","#9A83C5","#AAAAAA","#000000","#FFFFFF",0,""
+3,"Music City","MUS","Mystique","music_city_mystique.png",54298,40,200,0,1,206,0,1,1,1,1,0,"#60D4D1","#FFFFFF","#FFFFFF","#60D3D1","#FFFFFF","#AAAAAA","#FFFFFF","#875C4A",0,""
