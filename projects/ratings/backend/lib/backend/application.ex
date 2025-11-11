@@ -8,7 +8,8 @@ defmodule Backend.Application do
   @impl true
   def start(_type, _args) do
     children = [
-      Backend.Repo
+      Backend.Repo,
+      {Plug.Cowboy, scheme: :http, plug: Backend.Router, options: [port: 4000]}
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
