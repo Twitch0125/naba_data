@@ -1,6 +1,6 @@
 # 2. Database and Schema
 
-- **Status:** Not Started
+- **Status:** In Progress
 
 ## Overview
 
