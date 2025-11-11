@@ -1,6 +1,6 @@
 # 3. User Authentication
 
-- **Status:** Not Started
+- **Status:** Done
 
 ## Overview
 
